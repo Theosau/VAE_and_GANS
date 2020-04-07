@@ -1,3 +1,5 @@
+This repository contains the 2nd Deep Learning coursework from the Department of Computing, Imperial College London, Academic Year 2019-2020, delivered by Professor Michael Bronstein, Professor Bjorn Schuller, and Stefanos Zafeirou. The coureseworks were developed with their PhD students. 
+
 # VAE_and_GANS
 
 The first part consists of the implementation of a Variational Autoencoder on the MNIST dataset. <br>
