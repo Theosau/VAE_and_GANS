@@ -16,4 +16,4 @@ Important features used in the DCGAN are: <br>
 The rational behind these features is described in the VAE_and_GANS.ipynb notebook. <br> 
 The evolution of the loss functions of both the discriminator and the genrator, mode collapse and convergence collapsed are also disucussed.
 
-Don't forget to have a look at the beautiful animal shapes in the images folder. I have observed the latter while visualising the latent representation using two dimensions T-SNE with different KLD error beta weights and latent representation dimensions.
+Don't forget to have a look at the beautiful animal shapes in the images folder. I have observed the latter while visualising the latent representation using two dimensions t-SNE with different KLD error beta weights and latent representation dimensions.
